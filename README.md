@@ -1,5 +1,6 @@
 # ultimate_snake_game
 The Ultimate Snake Game in Python
+
 A classic game of Snake. I used Turtle library to create it. I also used classes and functions in the project.
 I created 4 .py files:
 - snake.py - which is a model of Snake
